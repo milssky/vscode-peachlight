@@ -5,7 +5,7 @@ The "Peachlight" theme for Visual Studio Code is a warm, light theme designed to
 Inspired by [Modus Operandi](https://protesilaos.com/emacs/modus-themes)
 
 
-![Demo screen](images/demo.jpg)
+![Demo screen](https://github.com/milssky/vscode-peachlight/images/demo.jpg)
 
 
 
