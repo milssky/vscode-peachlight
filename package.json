@@ -1,0 +1,27 @@
+{
+  "name": "peachlight",
+  "displayName": "Peachlight",
+  "description": "Light theme designed to provide a calm and visually pleasing coding environment",
+  "author": {
+    "name": "Alexey Potapov",
+    "url": "https://github.com/milssky"
+  },
+  "publisher": "milssky",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "icon": "images/icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Peachlight Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Peachlight Theme-color-theme.json"
+      }
+    ]
+  }
+}
